@@ -37,7 +37,7 @@ git的工作流程一般是这样的：
 
 因此，git管理的文件有三种状态：已修改（modified）,已暂存（staged）,已提交(committed)
 ## git简单指令
-![Alt text](image.png)
+![Alt text](image.png)  
 其中，文件有文件的四种状态，可以使用 `git status` 查看
 > + Untracked: 未跟踪, 此文件在文件夹中, 但并没有加入到git库, 不参与版本控制. 通过git add 状态变为Staged.
 
